@@ -5,7 +5,7 @@ I turn open data into analyses you can check, and I study how uncertainty learne
 **Looking for a work-study position (alternance) in data or R&D for 2027–2028, or an internship from May 2027 that could lead to it.**
 *Étudiant en M1 informatique à Mulhouse, je cherche une alternance data ou R&D pour 2027-2028, ou un stage à partir de mai 2027.*
 
-**Portfolio:** [deogratias-loutou.fr](https://deogratias-loutou.fr) (3D winstub) · [classic version](https://deogratias-loutou.fr/classic.html) · [version française](https://deogratias-loutou.fr/classic-fr.html)
+**Portfolio:** [deogratias-loutou.fr](https://deogratias-loutou.fr) (3D story told with real data) · [classic version](https://deogratias-loutou.fr/classic.html) · [version française](https://deogratias-loutou.fr/classic-fr.html)
 
 #### Three studies with public code and a written report
 
