@@ -5,7 +5,7 @@ I turn open data into analyses you can check, and I study how uncertainty learne
 **Looking for a data analyst or R&D internship.**
 *Étudiant en M1 informatique à Mulhouse, je cherche un stage de data analyst ou de R&D.*
 
-**Portfolio:** [ldgkm.github.io](https://ldgkm.github.io) (3D winstub) · [classic version](https://ldgkm.github.io/classic.html) · [version française](https://ldgkm.github.io/classic-fr.html)
+**Portfolio:** [deogratias-loutou.fr](https://deogratias-loutou.fr) (3D winstub) · [classic version](https://deogratias-loutou.fr/classic.html) · [version française](https://deogratias-loutou.fr/classic-fr.html)
 
 #### Three studies with public code and a written report
 
@@ -23,4 +23,4 @@ Python (pandas, scikit-learn, statsmodels, SciPy/HiGHS) · SQL (DuckDB, MySQL, P
 
 #### Contact
 
-[LinkedIn](https://www.linkedin.com/in/deo-gratias-loutou-545263278) · loutoudeogratias@gmail.com · [CV (PDF)](https://ldgkm.github.io/cv/Deo_Gratias_Loutou_CV.pdf) · [CV recherche (PDF)](https://ldgkm.github.io/cv/Deo_Gratias_Loutou_CV_Research.pdf)
+[LinkedIn](https://www.linkedin.com/in/deo-gratias-loutou-545263278) · loutoudeogratias@gmail.com · [CV (PDF)](https://deogratias-loutou.fr/cv/Deo_Gratias_Loutou_CV.pdf) · [CV recherche (PDF)](https://deogratias-loutou.fr/cv/Deo_Gratias_Loutou_CV_Research.pdf)
