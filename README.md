@@ -2,8 +2,8 @@
 
 Computer science master's student (M1) at Université de Haute-Alsace, Mulhouse.
 I turn open data into analyses you can check, and I study how uncertainty learned from data changes decisions.
-**Looking for a data analyst or R&D internship.**
-*Étudiant en M1 informatique à Mulhouse, je cherche un stage de data analyst ou de R&D.*
+**Looking for a work-study position (alternance) in data or R&D for 2027–2028, or an internship from May 2027 that could lead to it.**
+*Étudiant en M1 informatique à Mulhouse, je cherche une alternance data ou R&D pour 2027-2028, ou un stage à partir de mai 2027.*
 
 **Portfolio:** [deogratias-loutou.fr](https://deogratias-loutou.fr) (3D winstub) · [classic version](https://deogratias-loutou.fr/classic.html) · [version française](https://deogratias-loutou.fr/classic-fr.html)
 
